@@ -1,5 +1,5 @@
 # Вкладка Perfomance
-
+[Файл с Perfomance.json](https://disk.yandex.ru/d/AurI4RQgSUXLLA)
 ## Измерить время в миллисекундах от начала навигации до событий:
 - First Paint (FP): 5610.1 ms = 5,61 s
 - First Contentful Paint (FCP): 5610.1 ms = 5,61 s
@@ -9,11 +9,11 @@
  
 ## Определить, на каком DOM-элементе происходит LCP
 LCP происходит на изображении с селектором: *body > div.branded__center.ASE_brandImage > div > a > div > img*
-# СКРИНШОТ LCP
+[Скриншот](./imgs/LCP.png)
 
 ## Измерить, сколько времени в миллисекундах тратится на разные этапы обработки документа
 - Loading: 121 ms
 - Scripting: 8594 ms
 - Rendering: 1940 ms
 - Painting: 469 ms
-# СКРИНШОТ SUMMARY
+[Скриншот](./imgs/Summary.png)
